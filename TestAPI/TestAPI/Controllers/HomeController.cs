@@ -8,7 +8,7 @@ namespace TestAPI.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ActionResult IndexTest()
         {
             string name = "Santosh";
             ViewBag.Title = "Home Page for siddhika"; 

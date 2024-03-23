@@ -10,6 +10,7 @@ namespace TestAPI.Controllers
     {
         public ActionResult Index()
         {
+            string name = "Santosh";
             ViewBag.Title = "Home Page for siddhika"; 
 
             return View();

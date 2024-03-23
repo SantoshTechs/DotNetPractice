@@ -30,7 +30,7 @@ namespace TestAPI.Tests.Controllers
         }
 
         [TestMethod]
-        public void GetById()
+        public void GetByName()
         {
             // Arrange
             ValuesController controller = new ValuesController();

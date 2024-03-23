@@ -9,7 +9,7 @@ namespace TestAPI.Tests.Controllers
     public class HomeControllerTest
     {
         [TestMethod]
-        public void Index()
+        public void Index123()
         {
             // Arrange
             HomeController controller = new HomeController();

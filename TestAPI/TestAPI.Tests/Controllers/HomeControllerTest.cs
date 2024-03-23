@@ -12,7 +12,7 @@ namespace TestAPI.Tests.Controllers
         public void Index123()
         {
             // Arrange
-            string name = "Rohan";
+            string name = "Rohan  Test";
             HomeController controller = new HomeController();
 
             // Act
